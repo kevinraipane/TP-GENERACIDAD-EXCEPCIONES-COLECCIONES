@@ -20,7 +20,7 @@ clave sea el nombre del producto.
 ○ Para Usuario, utilizar un conjunto (Set) para asegurar que no haya
 usuarios duplicados por email.
 Manejo de Excepciones:
-1. Lanzar una excepción ElementoDuplicadoException cuando se intente agregar
+1. Lanzar una excepción Excepciones.ElementoDuplicadoException cuando se intente agregar
 un elemento con una clave ya existente.
 2. Lanzar una excepción ElementoNoEncontradoException al intentar eliminar o
 buscar un elemento inexistente.
@@ -36,6 +36,8 @@ entidades.
 2. Añadir un tercer parámetro de tipo para almacenar metadatos o etiquetas
 adicionales sobre las entidades, como la fecha de creación o categorías de
 productos, lo que puede facilitar las búsquedas o el filtrado por criterios adicionales.
+
+
 Sistema de catálogo multimedia
 Objetivo: Crear un sistema de catálogo multimedia genérico para almacenar diferentes
 tipos de medios (libros, películas y música), utilizando colecciones de datos específicas
