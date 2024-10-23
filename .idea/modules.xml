@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Resolucion/Resolucion.iml" filepath="$PROJECT_DIR$/Resolucion/Resolucion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Resolucion 2/Resolucion 2.iml" filepath="$PROJECT_DIR$/Resolucion 2/Resolucion 2.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/TP-GENERACIDAD-EXCEPCIONES-COLECCIONES.iml" filepath="$PROJECT_DIR$/.idea/TP-GENERACIDAD-EXCEPCIONES-COLECCIONES.iml" />
     </modules>
   </component>
